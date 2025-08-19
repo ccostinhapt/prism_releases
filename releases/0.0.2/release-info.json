@@ -1,0 +1,12 @@
+{
+  "version": "0.0.2",
+  "releaseDate": "2025-08-19T18:41:32.661Z",
+  "releaseNotes": "Fix performance issues",
+  "platforms": [
+    "macos"
+  ],
+  "buildInfo": {
+    "sourceCommit": "8e53581c4a655c1a47464f6adbec426ad4fe11c2",
+    "buildNumber": "7"
+  }
+}
