@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "releaseDate": "2025-08-19T18:21:25.622Z",
+  "releaseNotes": "Initial desktop release of PRISM with full JIRA integration, metrics   visualization, and cross-platform support",
+  "platforms": [
+    "macos"
+  ],
+  "buildInfo": {
+    "sourceCommit": "4513d139f96f11ab157f116c8aed55b9c6037b64",
+    "buildNumber": "6"
+  }
+}

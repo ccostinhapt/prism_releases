@@ -2,7 +2,9 @@
 
   Download the latest desktop application for your platform:
 
-  ## Latest Release
+  ## Latest Release - v0.0.1
+
+Download the latest desktop application for your platform:
 
   - **Windows**: [Download .exe](releases/latest/JIRA-Initiatives-Dashboard-Setup.exe)
   - **macOS**: [Download .dmg](releases/latest/JIRA-Initiatives-Dashboard.dmg)
