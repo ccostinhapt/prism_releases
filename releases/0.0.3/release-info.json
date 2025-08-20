@@ -1,0 +1,12 @@
+{
+  "version": "0.0.3",
+  "releaseDate": "2025-08-20T12:59:41.491Z",
+  "releaseNotes": "Fixed performance and add logo design across application.",
+  "platforms": [
+    "macos"
+  ],
+  "buildInfo": {
+    "sourceCommit": "f3a98a4b81f464e25f1fbc7adfeb38fc31ea4510",
+    "buildNumber": "8"
+  }
+}

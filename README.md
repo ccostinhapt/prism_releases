@@ -2,7 +2,9 @@
 
   Download the latest desktop application for your platform:
 
-  ## Latest Release - v0.0.2
+  ## Latest Release - v0.0.3
+
+Download the latest desktop application for your platform:
 
 Download the latest desktop application for your platform:
 
